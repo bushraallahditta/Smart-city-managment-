@@ -88,6 +88,25 @@ A comprehensive **C++ console-based application** for managing various city serv
 
 ### Prerequisites
 - C++ Compiler (g++ recommended)
+- Step 2: Run the Program
+bash
+# Windows
+smartcity.exe
+
+# Linux/Mac
+./smartcity
+Step 3: Navigate the Menu
+text
+====================================
+ SMART CITY MANAGEMENT SYSTEM
+====================================
+1. Citizen Records
+2. FIR Records
+3. Property Records
+4. Voting Management
+5. Medical Records
+6. Exit
+
 - Windows / Linux / Mac OS
 
 ### Step 1: Compile the Code
