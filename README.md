@@ -174,5 +174,3 @@ C++ Compiler (g++ recommended)
 Windows / Linux / Mac OS
 
 Terminal/Command Prompt
-
-### 1. Citizen Records
