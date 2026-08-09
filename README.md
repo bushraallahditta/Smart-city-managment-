@@ -96,7 +96,6 @@ This **Smart City Management System** is a complete urban administration solutio
 - **Data stored:** Patient Name | CNIC | Disease | Doctor | Date
 
 ---
-
 ## 🛠️ Technology Stack
 
 | Technology | Purpose |
